@@ -30,7 +30,7 @@ A Python project to detect and track the state of the board game **Shut the Box*
 
 1. Clone the repository
     ```bash
-    git clone https://labcode.mdx.ac.uk/mdx_mobile_robot_nafis/shut_the_box.git
+    git clone https://github.com/mn-nafis/shut_the_box_detector.git
     cd shut-the-box-detector
     ```
 2. Create a virtual environment
